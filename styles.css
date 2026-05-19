@@ -204,7 +204,7 @@ h1, h2, h3, p {
   margin: 1rem auto;
   max-width: 800px;
   padding: 1rem 1.25rem;
-  border-radius: 3rem;
+  border-radius: .75rem;
   color: black;
   background-image: linear-gradient(180deg, #cd64fa 0, #fabe7d 50%, #ffe646 75%, #ffebb9 100%);
   background-color: #fabe7d;
